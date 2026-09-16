@@ -135,4 +135,4 @@ When asked about treasury balances or onchain holdings:
 - X: https://x.com/pi_fire_science
 - Contact: firesci@patternintegrity.com
 - Install (after merge into BankrBot/skills): `install the pi-fire-science skill from https://github.com/BankrBot/skills/tree/main/pi-fire-science`
-- Install (before merge): use your public fork/branch URL, e.g. `install the pi-fire-science skill from https://github.com/<ORG>/<REPO>/tree/<BRANCH>/pi-fire-science`
+- Install (public repo): `install the pi-fire-science skill from https://github.com/auctobot001/pifirescience/tree/main/pi-fire-science`
